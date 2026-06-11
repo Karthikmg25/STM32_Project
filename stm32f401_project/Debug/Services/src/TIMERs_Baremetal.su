@@ -1,0 +1,9 @@
+../Services/src/TIMERs_Baremetal.c:11:6:Timer_Delay_Creation	4	static
+../Services/src/TIMERs_Baremetal.c:40:6:delay_ms	24	static
+../Services/src/TIMERs_Baremetal.c:50:6:Timer_Interrupt_Generation	4	static
+../Services/src/TIMERs_Baremetal.c:91:6:TIM5_IRQHandler	4	static
+../Services/src/TIMERs_Baremetal.c:117:6:Non_blocking_delay_Generation	16	static
+../Services/src/TIMERs_Baremetal.c:174:6:TIM3_IRQHandler	4	static
+../Services/src/TIMERs_Baremetal.c:204:6:PWM_Generation	4	static
+../Services/src/TIMERs_Baremetal.c:242:6:Set_Brightness	16	static
+../Services/src/TIMERs_Baremetal.c:246:10:MapADC_To_PWM	24	static

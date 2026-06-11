@@ -1,0 +1,6 @@
+../Services/src/USART_Baremetal.c:24:6:USART_Configuration	1
+../Services/src/USART_Baremetal.c:102:6:USART_Transmission	2
+../Services/src/USART_Baremetal.c:111:9:USART_Reception	2
+../Services/src/USART_Baremetal.c:120:6:USART_Send_String	2
+../Services/src/USART_Baremetal.c:128:6:USART_Send_Number	1
+../Services/src/USART_Baremetal.c:136:6:USART2_GPIO_Configuration	1

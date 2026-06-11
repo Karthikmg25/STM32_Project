@@ -1,0 +1,4 @@
+../Core/Src2/main.c:31:6:ConfigureI2c_GpioPins	1
+../Core/Src2/main.c:67:16:RTC_ConvertDecToBCD	1
+../Core/Src2/main.c:74:16:RTC_ConvertBCDToDec	1
+../Core/Src2/main.c:80:5:main	1

@@ -1,0 +1,2 @@
+../Services/src/printf.c:32:5:_write	3
+../Services/src/printf.c:60:6:printf_USART2_Init	1

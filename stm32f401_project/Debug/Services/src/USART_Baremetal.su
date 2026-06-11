@@ -1,0 +1,6 @@
+../Services/src/USART_Baremetal.c:24:6:USART_Configuration	24	static
+../Services/src/USART_Baremetal.c:102:6:USART_Transmission	16	static
+../Services/src/USART_Baremetal.c:111:9:USART_Reception	16	static
+../Services/src/USART_Baremetal.c:120:6:USART_Send_String	16	static
+../Services/src/USART_Baremetal.c:128:6:USART_Send_Number	32	static
+../Services/src/USART_Baremetal.c:136:6:USART2_GPIO_Configuration	4	static
